@@ -1,0 +1,3 @@
+"Naming Options:
+field:[fieldname] - By Fieldautoincrement - Uses Databases' Auto Increment featurenaming_series: - By Naming Series (field called naming_series must be present)Prompt - Prompt user for a name[series] - Series by prefix (separated by a dot); for example PRE.#####
+format:EXAMPLE-{MM}morewords{fieldname1}-{fieldname2}-{#####} - Replace all braced words (fieldnames, date words (DD, MM, YY), series) with their value. Outside braces, any characters can be used.","aadf"
