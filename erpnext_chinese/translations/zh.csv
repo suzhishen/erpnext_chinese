@@ -4996,7 +4996,7 @@ Workflow Transition,工作流状态转换
 Shift Request,工作班次申请
 Tools,工具
 Material Transfer for Manufacture,工单发料
-Material Transferred for Manufacture,已发到工单的物料
+Material Transferred for Manufacture,工单发料
 Work Order Operation,工单工序
 Qty To Manufacture,工单数量
 Work Order Qty,工单数量
@@ -8893,7 +8893,11 @@ Work Order Stock Report,工单原材料库存齐套报表
 Work Order not created,生产工单未创建
 Quantity to Produce can not be less than Zero,生产数量不能小于零
 Manufacturing Date,生产日期
+<<<<<<< HEAD
 Where manufacturing operations are carried.,生产流程进行的地方
+=======
+Where manufacturing operations are carried.,生产流程进行的地方。
+>>>>>>> 37e7a2a722e8d58076c2bb85632b48808b075f46
 Production Item,成品
 Manufacturing User,生产用户
 Produced Quantity,生产的产品数量
@@ -17009,5 +17013,10 @@ Create Reposting Entry,创建物料成本价追溯调整
 "Any one of following filters required: warehouse, Item Code, Item Group",需要至少一个过滤条件：仓库，物料号，或物料组
 Assign Job to Employee,派工
 Pause Job,暂停加工单
+<<<<<<< HEAD
+=======
+Get Raw Materials Cost from Consumption Entry,入库成品原材料成本取自工单耗用
+"Row {0}: As {1} is enabled, raw materials cannot be added to {2} entry. Use {3} entry to consume raw materials.",第 {0} 行：生产设置中已勾选 入库成品原材料成本取自工单耗用，工单入库中不允许倒扣原材料，请创建工单耗用物料移动消耗原材料
+>>>>>>> 37e7a2a722e8d58076c2bb85632b48808b075f46
 Materials needs to be transferred to the work in progress warehouse for the job card {0},请先为加工单 {0} 发料(直接调拨)
 Time logs are required for {0} {1},请为 {0} {1} 填写工时记录,
