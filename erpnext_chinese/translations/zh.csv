@@ -8893,11 +8893,7 @@ Work Order Stock Report,工单原材料库存齐套报表
 Work Order not created,生产工单未创建
 Quantity to Produce can not be less than Zero,生产数量不能小于零
 Manufacturing Date,生产日期
-<<<<<<< HEAD
 Where manufacturing operations are carried.,生产流程进行的地方
-=======
-Where manufacturing operations are carried.,生产流程进行的地方。
->>>>>>> 37e7a2a722e8d58076c2bb85632b48808b075f46
 Production Item,成品
 Manufacturing User,生产用户
 Produced Quantity,生产的产品数量
@@ -17013,11 +17009,8 @@ Create Reposting Entry,创建物料成本价追溯调整
 "Any one of following filters required: warehouse, Item Code, Item Group",需要至少一个过滤条件：仓库，物料号，或物料组
 Assign Job to Employee,派工
 Pause Job,暂停加工单
-<<<<<<< HEAD
-=======
 Get Raw Materials Cost from Consumption Entry,入库成品原材料成本取自工单耗用
 "Row {0}: As {1} is enabled, raw materials cannot be added to {2} entry. Use {3} entry to consume raw materials.",第 {0} 行：生产设置中已勾选 入库成品原材料成本取自工单耗用，工单入库中不允许倒扣原材料，请创建工单耗用物料移动消耗原材料
->>>>>>> 37e7a2a722e8d58076c2bb85632b48808b075f46
 Materials needs to be transferred to the work in progress warehouse for the job card {0},请先为加工单 {0} 发料(直接调拨)
 Time logs are required for {0} {1},请为 {0} {1} 填写工时记录,
 Items to Reserve,库存预留明细
@@ -17282,3 +17275,15 @@ REJECTED JOB APPLICANTS,未录用
 ACCEPTED JOB APPLICANTS,已录用
 TOTAL APPLICANTS (THIS MONTH),总求职人数(本月)
 JOB OPENINGS,职位空缺
+Disassemble,工单拆解
+Disassemble Order,工单拆解
+"If enabled then system won't apply the pricing rule on the delivery note which will be create from the pick list",如勾选从拣货单下推的销售出库将不启用动态定价规则
+Create Reposting Entries,创建
+days,天
+minutes,分
+seconds,秒
+Show Labels,显示标签
+Kanban Settings,看板设置
+Delete Kanban Board,删除看板
+Idle,闲置
+Off,停机,Workstation

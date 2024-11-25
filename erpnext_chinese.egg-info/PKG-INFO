@@ -1,12 +1,7 @@
 Metadata-Version: 2.1
-Name: erpnext-chinese
-Version: 13.0.6
+Name: erpnext_chinese
+Version: 15.0.36
 Summary: ERPNext中文汉化，简化，优化
-Home-page: UNKNOWN
 Author: yuzelin
 Author-email: yuxinyong@163.com
-License: UNKNOWN
-Platform: UNKNOWN
-
-UNKNOWN
-
+Requires-Dist: erpnext
